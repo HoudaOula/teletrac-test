@@ -1,5 +1,5 @@
 
-# Teletrac Test [![test](https://github.com/HoudaOula/teletrac-test/actions/workflows/main.yml/badge.svg)](https://github.com/HoudaOula/teletrac-test/runs/6337893722?check_suite_focus=true)
+# Teletrac Test [![test](https://github.com/HoudaOula/teletrac-test/actions/workflows/main.yml/badge.svg)](https://github.com/HoudaOula/teletrac-test/actions/workflows/main.yml)
 
 ## Introduction
 ### What?  
