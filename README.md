@@ -9,7 +9,7 @@ Teletrac Test is a project that provides the following:
 - Mandatory fields validation
 - User authentication (Role based)
 - Token based authorization
-- Date stored in MySQL database 
+- Data stored in MySQL database 
 - Requests auditing 
 - Continous Integration
 
